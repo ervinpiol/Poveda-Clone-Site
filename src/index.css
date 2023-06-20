@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Jacques+Francois&family=Poppins:wght@300;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 1px solid navy;
+}
+
+#menu-icon.active_menu span:first-child {
+  transform: rotate(45deg) translate(2.5px, 3px);
+}
+
+#menu-icon.active_menu span:nth-child(2) {
+  display: none;
+}
+
+#menu-icon.active_menu span:last-child {
+  transform: rotate(-45deg) translate(3px, -3px);
+}
+
+.active {
+  border-bottom: 1px solid white;
+}
