@@ -4,9 +4,9 @@ import { Card } from "../components/Card";
 import Testimonials from "../components/Testimonials";
 import SocialMedia from "../components/SocialMedia";
 import ContactForm from "../components/ContactForm";
-import AboutUsHeroImg from "../assets/HeroImages/About-Us-Hero-Img.png";
 import GridCard from "../components/GridCard";
 import { commentData } from "../data/commentData";
+import AboutUsHeroImg from "../assets/HeroImages/About-Us-Hero-Img.avif";
 
 const AboutUs = () => {
   return (

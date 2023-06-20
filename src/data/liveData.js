@@ -1,6 +1,6 @@
-import adventureImg from "../assets/Home/Live/adventure.png";
-import cultureImg from "../assets/Home/Live/culture.png";
-import relaxationImg from "../assets/Home/Live/relaxation.png";
+import adventureImg from "../assets/Home/Live/adventure.avif";
+import cultureImg from "../assets/Home/Live/culture.avif";
+import relaxationImg from "../assets/Home/Live/relaxation.avif";
 
 export const liveData = [
   {

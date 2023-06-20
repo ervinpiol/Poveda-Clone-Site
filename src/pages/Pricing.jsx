@@ -3,7 +3,7 @@ import Testimonials from "../components/Testimonials";
 import ContactForm from "../components/ContactForm";
 import WeOffer from "../components/WeOffer";
 import Hero from "../components/Hero";
-import PricingHeroImg from "../assets/Pricing/Pricing-Hero-Img.png";
+import PricingHeroImg from "../assets/HeroImages/Pricing-Hero-Img.avif";
 
 const Pricing = () => {
   return (

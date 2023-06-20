@@ -5,7 +5,7 @@ import GridCard from "../components/GridCard";
 import { cultureData } from "../data/cultureData";
 import Price from "../components/Price";
 import ContactForm from "../components/ContactForm";
-import CultureHeroImg from "../assets/HeroImages/culture-hero-img.png";
+import CultureHeroImg from "../assets/HeroImages/culture-hero-img.avif";
 
 const Culture = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
-import Img1 from "../assets/Home/SocialMedia/img1.png";
-import Img2 from "../assets/Home/SocialMedia/img2.png";
-import Img3 from "../assets/Home/SocialMedia/img3.png";
+import Img1 from "../assets/Home/SocialMedia/img1.avif";
+import Img2 from "../assets/Home/SocialMedia/img2.avif";
+import Img3 from "../assets/Home/SocialMedia/img3.avif";
 import { motion } from "framer-motion";
 
 const SocialMedia = () => {

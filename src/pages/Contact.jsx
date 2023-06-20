@@ -3,7 +3,7 @@ import { Card } from "../components/Card";
 import ContactForm from "../components/ContactForm";
 import SocialMedia from "../components/SocialMedia";
 import Hero from "../components/Hero";
-import ContactHeroImg from "../assets/HeroImages/Contact-Hero-Img.png";
+import ContactHeroImg from "../assets/HeroImages/Contact-Hero-Img.avif";
 
 const Contact = () => {
   return (

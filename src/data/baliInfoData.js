@@ -1,5 +1,5 @@
-import Img1 from "../assets/Home/LearnMore/img1.png";
-import Img2 from "../assets/Home/LearnMore/img2.png";
+import Img1 from "../assets/Home/LearnMore/img1.avif";
+import Img2 from "../assets/Home/LearnMore/img2.avif";
 
 export const baliInfoData = [
   {

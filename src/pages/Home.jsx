@@ -7,7 +7,7 @@ import GridCard from "../components/GridCard";
 import { baliInfoData } from "../data/baliInfoData";
 import Hero from "../components/Hero";
 
-import HeroImg from "../assets/Home/main-hero-img.webp";
+import HeroImg from "../assets/HeroImages/Home-Hero-Img.avif";
 
 const Home = () => {
   return (

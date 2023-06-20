@@ -5,7 +5,7 @@ import GridCard from "../components/GridCard";
 import { adventureData } from "../data/adventureData";
 import Price from "../components/Price";
 import ContactForm from "../components/ContactForm";
-import AdventureHeroImg from "../assets/HeroImages/adventures-hero-img.png";
+import AdventureHeroImg from "../assets/HeroImages/adventures-hero-img.avif";
 
 const Adventure = () => {
   return (

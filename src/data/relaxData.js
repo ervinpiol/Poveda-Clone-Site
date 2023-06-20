@@ -1,6 +1,6 @@
-import Img1 from "../assets/Relax/img1.png";
-import Img2 from "../assets/Relax/img2.png";
-import Img3 from "../assets/Relax/img3.png";
+import Img1 from "../assets/Relax/img1.avif";
+import Img2 from "../assets/Relax/img2.avif";
+import Img3 from "../assets/Relax/img3.avif";
 
 export const relaxData = [
   {

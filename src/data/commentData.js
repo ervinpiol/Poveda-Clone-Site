@@ -1,5 +1,5 @@
-import JesseImg from "../assets/AboutUs/jesse-img.png";
-import MillerImg from "../assets/AboutUs/miller-img.png";
+import JesseImg from "../assets/AboutUs/jesse-img.avif";
+import MillerImg from "../assets/AboutUs/miller-img.avif";
 
 export const commentData = [
   {
