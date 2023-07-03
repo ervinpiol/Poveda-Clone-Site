@@ -5,7 +5,7 @@ import GridCard from "../components/GridCard";
 import { relaxData } from "../data/relaxData";
 import Price from "../components/Price";
 import ContactForm from "../components/ContactForm";
-import RelaxHeroImg from "../assets/HeroImages/relax-hero-img.avif";
+import RelaxHeroImg from "../assets/HeroImages/relax-hero-img.webp";
 
 const Relax = () => {
   return (

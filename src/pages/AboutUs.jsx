@@ -6,7 +6,7 @@ import SocialMedia from "../components/SocialMedia";
 import ContactForm from "../components/ContactForm";
 import GridCard from "../components/GridCard";
 import { commentData } from "../data/commentData";
-import AboutUsHeroImg from "../assets/HeroImages/About-Us-Hero-Img.avif";
+import AboutUsHeroImg from "../assets/HeroImages/About-Us-Hero-Img.webp";
 
 const AboutUs = () => {
   return (

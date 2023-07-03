@@ -1,6 +1,6 @@
-import Img1 from "../assets/Culture/img1.avif";
-import Img2 from "../assets/Culture/img2.avif";
-import Img3 from "../assets/Culture/img3.avif";
+import Img1 from "../assets/Culture/img1.webp";
+import Img2 from "../assets/Culture/img2.webp";
+import Img3 from "../assets/Culture/img3.webp";
 
 export const cultureData = [
   {

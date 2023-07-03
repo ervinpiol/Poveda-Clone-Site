@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useMediaQuery } from "react-responsive";
 import { Link, NavLink } from "react-router-dom";
 
-import Logo from "../assets/Poveda-Logo.avif";
+import Logo from "../assets/Poveda-Logo.webp";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDown } from "@fortawesome/free-solid-svg-icons";
 

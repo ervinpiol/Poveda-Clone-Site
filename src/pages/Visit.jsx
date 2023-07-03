@@ -3,7 +3,7 @@ import { Card } from "../components/Card";
 import Live from "../components/Live";
 import ContactForm from "../components/ContactForm";
 import Hero from "../components/Hero";
-import VisitHeroImg from "../assets/HeroImages/Visit-Hero-Img.avif";
+import VisitHeroImg from "../assets/HeroImages/Visit-Hero-Img.webp";
 
 const Visit = () => {
   return (

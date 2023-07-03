@@ -1,7 +1,7 @@
-import Img1 from "../assets/Adventure/img-1.avif";
-import Img2 from "../assets/Adventure/img-2.avif";
-import Img3 from "../assets/Adventure/img-3.avif";
-import Img4 from "../assets/Adventure/img-4.avif";
+import Img1 from "../assets/Adventure/img-1.webp";
+import Img2 from "../assets/Adventure/img-2.webp";
+import Img3 from "../assets/Adventure/img-3.webp";
+import Img4 from "../assets/Adventure/img-4.webp";
 
 export const adventureData = [
   {
