@@ -1,3 +1,2 @@
 ﻿# Poveda-Clone-Site
-
-Live Site: https://ervin-poveda.netlify.app/
+<a href="https://ervin-poveda.netlify.app/" target="_blank">Live Site</a>
